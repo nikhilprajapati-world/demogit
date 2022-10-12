@@ -4,3 +4,4 @@ Step1: add file
 Step2: modify file
 Step3: save file
 Step4: exit file
+Step5: signout
