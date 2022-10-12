@@ -1,0 +1,22 @@
+From 0e0d6c6abdb1d704bab05a3aedccec226eca161c Mon Sep 17 00:00:00 2001
+From: nikhilprajapati-world <nikhil.prajapati@live.in>
+Date: Wed, 12 Oct 2022 21:06:19 +0530
+Subject: [PATCH] added patch
+
+---
+ steps.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/steps.txt b/steps.txt
+index 9fa2535..42e94ea 100644
+--- a/steps.txt
++++ b/steps.txt
+@@ -10,3 +10,5 @@ Step5: signout
+ C1
+ C2
+ C3
++
++Patch added
+-- 
+2.37.1
+
